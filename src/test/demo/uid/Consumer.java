@@ -3,7 +3,7 @@ package test.demo.uid;
 import test.demo.utils.SerializationUtils;
 
 /**
- * 处理反序列化内容
+ * 处理反序列化内容 - 消费者
  * @author zhangqingfeng
  *
  */
